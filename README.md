@@ -17,3 +17,4 @@ test: test contract behavior with insufficient funds
 test: add performance benchmarks
 test: verify cross-contract calls
 test: add mock contracts for external dependencies
+test: simulate governance voting process
