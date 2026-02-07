@@ -8,3 +8,4 @@ test: add integration tests for multi-contract flow
 test: simulate network congestion scenarios
 test: increase test coverage to 95%
 test: add fuzz testing for mathematical functions
+test: verify metadata rendering on testnets
