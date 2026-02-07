@@ -15,3 +15,4 @@ test: add snapshot testing for contract state
 test: verify events are emitted correctly
 test: test contract behavior with insufficient funds
 test: add performance benchmarks
+test: verify cross-contract calls
