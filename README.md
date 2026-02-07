@@ -12,3 +12,4 @@ test: verify metadata rendering on testnets
 test: add tests for upgradeability logic
 test: simulate front-running attacks
 test: add snapshot testing for contract state
+test: verify events are emitted correctly
