@@ -25,3 +25,4 @@ Add smart contract dependencies (OpenZeppelin, Hardhat)
 Draft initial smart contract logic
 Implement ERC-20/ERC-721 standard functions
 Add Base Sepolia testnet configuration to hardhat.config.js
+Refactor contract for gas optimization on Base
