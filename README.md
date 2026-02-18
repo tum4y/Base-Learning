@@ -23,3 +23,4 @@ test: add stress tests for batch operations
 Initial commit: project structure and boilerplate
 Add smart contract dependencies (OpenZeppelin, Hardhat)
 Draft initial smart contract logic
+Implement ERC-20/ERC-721 standard functions
