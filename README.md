@@ -33,3 +33,4 @@ Add deployment scripts for Base Sepolia
 Update README with contract addresses and usage guide
 Successful deployment to Base Sepolia and verification
 Final security audit fixes and code cleanup
+Configure Base Mainnet deployment environment
