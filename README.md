@@ -24,3 +24,4 @@ Initial commit: project structure and boilerplate
 Add smart contract dependencies (OpenZeppelin, Hardhat)
 Draft initial smart contract logic
 Implement ERC-20/ERC-721 standard functions
+Add Base Sepolia testnet configuration to hardhat.config.js
