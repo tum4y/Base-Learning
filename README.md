@@ -29,3 +29,4 @@ Refactor contract for gas optimization on Base
 Add comprehensive unit tests for core logic
 Fix reentrancy vulnerability in withdrawal function
 Implement access control (Ownable/AccessControl)
+Add deployment scripts for Base Sepolia
