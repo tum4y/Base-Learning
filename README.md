@@ -20,3 +20,4 @@ test: add mock contracts for external dependencies
 test: simulate governance voting process
 test: verify signature recovery logic
 test: add stress tests for batch operations
+Initial commit: project structure and boilerplate
